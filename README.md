@@ -1,2 +1,0 @@
-# primeiroAppcomReact
-Created with CodeSandbox
